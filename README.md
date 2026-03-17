@@ -1,1 +1,1 @@
-# Obsidian-Git-Sync
+# Obsidian-Git-Sync ver 1
