@@ -1,0 +1,79 @@
+/* =========================
+   NORMAL TEXT - Chỉnh màu chữ đen đậm để rõ nét
+========================= */
+.cm-content {
+  font-size: 15px;
+  line-height: 1.6;
+  color: #1a1a1a; /* Màu đen xám, cực kỳ dễ đọc */
+}
+
+/* =========================
+   HEADINGS - EDITOR (Chế độ soạn thảo)
+========================= */
+
+/* H1, H2, H3 - Chuyển sang màu đen đậm */
+.cm-header-1 {
+  font-size: 28px !important;
+  font-weight: 700;
+  color: #000000 !important;
+}
+
+.cm-header-2 {
+  font-size: 24px !important;
+  font-weight: 650;
+  color: #000000 !important;
+}
+
+.cm-header-3 {
+  font-size: 20px !important;
+  font-weight: 600;
+  color: #000000 !important;
+}
+
+/* H4, H5 - Màu xám đậm để phân biệt cấp độ */
+.cm-header-4 {
+  font-size: 17px !important;
+  font-weight: 550;
+  color: #2d2d2d !important;
+}
+
+.cm-header-5 {
+  font-size: 15px !important;
+  font-weight: 500;
+  color: #444444 !important;
+}
+
+/* =========================
+   HEADINGS - PREVIEW (Chế độ xem trước)
+========================= */
+
+.markdown-preview-view h1,
+.markdown-preview-view h2,
+.markdown-preview-view h3 {
+  color: #000000;
+}
+
+.markdown-preview-view h4 {
+  color: #2d2d2d;
+}
+
+.markdown-preview-view h5 {
+  color: #444444;
+}
+
+/* =========================
+   SPACING
+========================= */
+
+.cm-line.HyperMD-header {
+  margin-top: 10px;
+}
+
+.markdown-preview-view h1,
+.markdown-preview-view h2,
+.markdown-preview-view h3,
+.markdown-preview-view h4,
+.markdown-preview-view h5 {
+  margin-top: 16px;
+  margin-bottom: 6px;
+}

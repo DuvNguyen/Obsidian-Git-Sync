@@ -1,0 +1,2 @@
+- Pessimist, pessimistic
+- amusement
