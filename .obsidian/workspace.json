@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1f5ea9356b11b174",
+        "id": "bbee0c62dcf0ac2a",
         "type": "tabs",
         "children": [
           {
-            "id": "510bbed410342bc6",
+            "id": "b42e8543cd4125b3",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -177,9 +177,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4c8eb2ebecd98d56",
+  "active": "b42e8543cd4125b3",
   "lastOpenFiles": [
-    "Welcome.md",
-    "Very first note of this vault.md"
+    "Connect git.md",
+    "Very first note of this vault.md",
+    "Welcome.md"
   ]
 }
